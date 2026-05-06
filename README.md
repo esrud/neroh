@@ -7,7 +7,7 @@ using the distribution of runs of homozygosity (ROH). It reads PLINK-format
 `.ped`/`.map` files, computes ROH statistics, and fits Ne trajectories using
 an evolutionary optimization algorithm.
 
-Authors: Enrique Santiago, Armando Caballero and Carlos Köpke
+Authors: Enrique Santiago, Armando Caballero, Ino Curik, Luboš Vostrý and Carlos Köpke
 
 ## System Requirements
 
